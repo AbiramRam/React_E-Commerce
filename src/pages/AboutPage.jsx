@@ -23,7 +23,7 @@ const AboutPage = () => {
           dignissimos blanditiis excepturi harum numquam vel nihil? Ipsum
         </p>
 
-        <h2 className="text-center py-4">Our Products</h2>
+        <h2 className="text-center py-4">Products</h2>
         <div className="row">
           <div className="col-md-3 col-sm-6 mb-3 px-3">
             <div className="card h-100">
